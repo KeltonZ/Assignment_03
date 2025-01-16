@@ -56,3 +56,12 @@ With version control, it is possible to:
 - `git branch`: allows the ability to create, rename, delete and list branches. essentially used to control your branches
 - `git merge`: allows you to merge branches into one branch
 - `git checkout`: allows you to update the files in the current tree to match the files in another tree or the index if specified
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- I think differently than others
+- I come from a background of competition
+- I'm highly driven but am still caring and enjoy working with others
+- I embrace challenges and love stress
