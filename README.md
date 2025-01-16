@@ -43,3 +43,16 @@ With version control, it is possible to:
 - allows developers to track what version of their project have been released
 - allows developers to merge their work to a primary database
 - since you can track all changes, this will allow you to diagnose issues in code by comparing different versions of files
+
+## Purpose of the following Git Commands
+
+- `git init`: Preps a local repository for use
+- `git status`: Checks the current status of the local repository
+- `git add`: adds files to be staged for commit
+- `git commit`: preps files for the push step to the remote repository
+- `git push`: pushes files to the remote repository and updates them to match the local repository
+- `git pull`: downloads the information of a remote repository and updates the local repository
+- `git log`: shows a history of commits so you can search for changes
+- `git branch`: allows the ability to create, rename, delete and list branches. essentially used to control your branches
+- `git merge`: allows you to merge branches into one branch
+- `git checkout`: allows you to update the files in the current tree to match the files in another tree or the index if specified
