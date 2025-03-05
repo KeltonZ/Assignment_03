@@ -1,9 +1,9 @@
-# Assignment 03 Loops
+# Assignment 03 Loops and logic
 
 ## Description
 
-The third assignment for comp-1327 exploring loops and logic within python
+Exploring and demonstrating the use of Loops and logic within python
 
 ## Author
 
-Kelton Zinn
+Kelton
